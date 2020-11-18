@@ -10,6 +10,16 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 
+nav{
+    font-size: 17px;
+    height: 10vh;
+}
+
 ul > li{
     margin: 0 15px;
+}
+
+.icono{
+    color: white;
+    padding: 0 10px;
 }
