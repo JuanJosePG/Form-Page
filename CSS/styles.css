@@ -12,7 +12,7 @@ body{
 
 /* NAVBAR */
 nav{
-    font-size: 17px;
+    font-size: 20px;
     height: 10vh;
 }
 
@@ -34,13 +34,17 @@ ul > li{
     position: relative;
 }
 
-.cabecera{
+/* .cabecera{
     background-color: #007bff;
     color: white;
     text-align: center;
     width: 50%;
     position: absolute;
-    top: -75%;
+    top: -30px;
     left: 25%;
     border-radius: 5px;
+} */
+
+.form-section{
+    margin: 40px auto;
 }
