@@ -13,7 +13,6 @@ body{
 /* NAVBAR */
 nav{
     font-size: 20px;
-    height: 10vh;
 }
 
 ul > li{
@@ -34,17 +33,33 @@ ul > li{
     position: relative;
 }
 
-/* .cabecera{
+.cabecera{
     background-color: #007bff;
     color: white;
     text-align: center;
     width: 50%;
     position: absolute;
-    top: -30px;
+    top: -2.5%;
     left: 25%;
     border-radius: 5px;
-} */
+}
+
+.cabecera h1{
+    font-size: 30px;
+    margin: 5px auto;
+}
 
 .form-section{
-    margin: 40px auto;
+    margin-top: 40px;
+}
+
+footer{
+    background-color: #007bff;
+    height: 10vh;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
