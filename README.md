@@ -16,7 +16,7 @@ To carry out the responsive behavior, I used the framework Bootstrap, which is a
 
 We can use the CDN (Content Delivery Network) with requirement that we need an Internet connection.
 
-An another way, is to download the package.
+And another way, is to download the package.
 
 ```bash
 #Via npm
